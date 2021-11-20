@@ -9,10 +9,10 @@
 /coverage
 
 # production
-/build
 
 # misc
-practice.js
+Api.jsx
+practice.jsx
 .DS_Store
 .env.local
 .env.development.local
